@@ -1,3 +1,5 @@
+# 전가산기를 이용한 퍼셉트론 구현
+
 import numpy as np
 def AND(x1, x2):
     x = np.array([x1, x2])
